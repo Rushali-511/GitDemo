@@ -19,6 +19,13 @@ public class SeleniumTest {
 		System.out.println("elementsYHUi");	
 		System.out.println("elemedfwefntsYHUi");	
 	}
+	@Test
+	public void elementssUi()
+	{
+		System.out.println("elementsUi");	
+		System.out.println("elementsYHUi");	
+		System.out.println("elemedfwefntsYHUi");	
+	}
 	
 	
 }
