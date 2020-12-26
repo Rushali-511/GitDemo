@@ -11,6 +11,13 @@ public class RESTAPITest {
 		System.out.println("postJi4a");
 		System.out.println("3");
 	}
+	@Test
+	public void postJiraa()
+	{
+		System.out.println("postJira");
+		System.out.println("postJi4a");
+		System.out.println("3");
+	}
 	
 	@Test
 	public void deleteTwitter()
